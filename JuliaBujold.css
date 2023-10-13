@@ -102,6 +102,7 @@ html, body {
     text-decoration: none;
 }
 
-.img {
-    width: 400px;
+img {
+   max-width: 400px;
+   max-height: 50%;
 }
