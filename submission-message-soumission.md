@@ -2,19 +2,28 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Julia Bujold
 
 ##GitHub Pages:
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
-https://jsmarier.github.io/Template-for-the-Website-Project/
+https://jsmarier-courses.github.io/project-1-jbujo071/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+ 	1.	Changed the main logo colour to pink.
+	2.	Changed inserted image size to 400 pixels with 50% weight
+	3.	Changed top menu links colour to magenta
+	4.	Changed current page link colour to dark orchid
+	5.	Changed, footer colour to dark orchid
+	6.	Changed HTML, body text colour to black
+	7.	Changed padding on HTML body to 10 pixels by 10 pixels by 10pixels by 10pixels
+	8.	Change the font size of the logo to 45 pixels
+	9.	Changed the top menu border to 4 by 4 by 4 by 4
+	10.	Changed border colour in top menu to pink
+	11.	Change the border style to dotted
+	12.	Changed current page link border with to 4 by 0 by 4 by 0
+	13.	Added a left margin a right margin to the logo
+	14.	Added a border to the logo style solid with a width of 0 by 0 by 4 by 0
+	15.	Change the border colour to the logo to dark orchid
